@@ -1,6 +1,4 @@
-## Post Flight Document Management (PFDM)
-
-Post Flight Document Management (PFDM) is a web based that used to meet needs in PFDM.
+## Post Flight Document Management (PFDM) website
 
 Tools:
 1. Programming language: Laravel (PHP Framework) v.5.6.4, MySQL, JavaScipt
